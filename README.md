@@ -1,7 +1,7 @@
 # 💫 About Me:
 I'm a passionate Front-End Developer and UI/UX Designer with a keen eye for clean and creative designs.<br>I enjoy turning ideas into beautiful, functional websites and applications.<br><br>- 💻 Skilled in HTML, CSS, JavaScript, TypeScript, Next.js, Tailwind CSS<br>- 🎨 Lover of UI/UX design and creating user-friendly digital experiences<br>- 🚀 Always eager to learn new technologies and improve my skills<br>- 🌱 Exploring full-stack development and AI-powered projects
 
-
+<br/>
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/nehahaneef115) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nehahaneef115) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@neha-haneef115) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/astrotistic115) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nehahaneef203@gmail.com) 
