@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 
 
 I'm a passionate Front-End Developer and UI/UX Designer with a keen eye for clean and creative designs.<br>
