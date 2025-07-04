@@ -51,8 +51,6 @@ I enjoy turning ideas into beautiful, functional websites and applications.<br><
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=neha-haneef115&theme=transparent&hide_border=false&include_all_commits=false&count_private=false)<br/>
-
 ![](https://nirzak-streak-stats.vercel.app/?user=neha-haneef115&theme=transparent&hide_border=false)<br/>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=neha-haneef115&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
@@ -67,18 +65,6 @@ I enjoy turning ideas into beautiful, functional websites and applications.<br><
 
 </div>
 
-### 🔝 Top Contributed Repo
-
-<div align="center">
-
-![](https://github-contributor-stats.vercel.app/api?username=neha-haneef115&limit=5&theme=transparent&combine_all_yearly_contributions=true)
-
-</div>
 
 ---
 
-<div align="center">
-
-[![](https://visitcount.itsvg.in/api?id=neha-haneef115&icon=0&color=0)](https://visitcount.itsvg.in)
-
-</div>
