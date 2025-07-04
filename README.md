@@ -4,8 +4,6 @@
 I'm a passionate Front-End Developer and UI/UX Designer with a keen eye for clean and creative designs.<br>
 I enjoy turning ideas into beautiful, functional websites and applications.<br><br>
 
-<br/>
-
 ## 🌐 Socials:
 
 <div align="center">
@@ -18,7 +16,6 @@ I enjoy turning ideas into beautiful, functional websites and applications.<br><
 
 </div>
 
-<br/>
 
 # 💻 Tech Stack:
 
