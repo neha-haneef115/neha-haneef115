@@ -4,13 +4,6 @@
 I'm a passionate Front-End Developer and UI/UX Designer with a keen eye for clean and creative designs.<br>
 I enjoy turning ideas into beautiful, functional websites and applications.<br><br>
 
-- 💻 Skilled in HTML, CSS, JavaScript, TypeScript, Next.js, Tailwind CSS<br>
-- 🎨 Lover of UI/UX design and creating user-friendly digital experiences<br>
-- 🚀 Always eager to learn new technologies and improve my skills<br>
-- 🌱 Exploring full-stack development and AI-powered projects
-
-
-
 <br/>
 
 ## 🌐 Socials:
